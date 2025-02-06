@@ -13,4 +13,4 @@ Szintaktikai okokból nem használt a kötőjeles elválasztás, a Navisworks `.
 ## **Archicad Classification System** ÉKTR-alapú mennyiségeléshez
 
 ### TODO: 
-- [ ] egységes színhasználatot egyeztetni az egyes osztályokhoz
+- [ ] létrehozni az osztályokat
