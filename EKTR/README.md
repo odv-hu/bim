@@ -5,5 +5,5 @@ Szintaktikai okokból nem használt a kötőjeles elválasztás, a Navisworks `.
 
 # TODO: 
 - [ ] egységes színhasználatot egyeztetni az egyes osztályokhoz
-- [ ] Item szinteket beállítani
+- [ ] `Item` szinteket beállítani
 - [ ] alapértelmezett mértékegységek hozzárendelése 
